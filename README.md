@@ -1,2 +1,2 @@
 # test1
-test sparse checkout and partial clone
+test1 sparse checkout and partial clone
